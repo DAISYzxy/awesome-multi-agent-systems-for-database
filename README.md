@@ -67,7 +67,7 @@ The taxonomy builds on [Awesome Data Agents](https://github.com/HKUSTDial/awesom
 | **Data Preparation** | **[P11. Benchmark Construction and Evaluation](#p11)** | Task and test-set construction, coverage/diversity control, agent evaluation and NL-to-query benchmarking. | 3 |
 | **Data Analysis** | **[A1. Natural Language to SQL](#a1)** | Schema/value linking, question decomposition, SQL generation, candidate selection, query refinement and repair. | 6 |
 | **Data Analysis** | **[A2. Graph, NoSQL and Spatial Querying](#a2)** | Natural-language interfaces to knowledge graphs, SPARQL, Cypher, document stores and spatial databases. | 3 |
-| **Data Analysis** | **[A3. Table Question Answering](#a3)** | Reasoning over single or multiple tables, spreadsheets and semi-structured tables to return grounded answers. | 3 |
+| **Data Analysis** | **[A3. Table Question Answering](#a3)** | Reasoning over single or multiple tables, spreadsheets and semi-structured tables to return grounded answers. | 4 |
 | **Data Analysis** | **[A4. Document, Multimodal and Unstructured Analytics](#a4)** | Question answering and analytics over documents, text, images, videos and logs; retrieval-augmented analysis. | 4 |
 | **Data Analysis** | **[A5. Exploratory Analysis and Business Intelligence](#a5)** | Interactive exploration, end-to-end analysis planning, business metrics, SQL/Python analysis and analytical workflows. | 8 |
 | **Data Analysis** | **[A6. Data Visualization and Visual Analytics](#a6)** | NL-to-chart generation, chart/code verification, interactive visual exploration and multimodal visualization. | 6 |
@@ -253,8 +253,9 @@ Within each category, papers are ordered by **year descending**, then **SIGMOD â
 #### A3. Table Question Answering
 
 1. **Accurate Table Question Answering with Accessible LLMs.** [![ICDE '26](https://img.shields.io/badge/ICDE%20%2726-green)](https://doi.org/10.1109/icde65706.2026.00020)
-2. **UNITQA: A Unified Automated Tabular Question Answering System with Multi-Agent Large Language Models.** [![SIGMOD '25](https://img.shields.io/badge/SIGMOD%20%2725-red)](https://doi.org/10.1145/3722212.3725140)
-3. **AutoTQA: Towards Autonomous Tabular Question Answering through Multi-Agent Large Language Models.** [![VLDB '24](https://img.shields.io/badge/VLDB%20%2724-blue)](https://doi.org/10.14778/3685800.3685816)
+2. **A Vision for Autonomous Data Agent Collaboration: From Query-by-Integration to Query-by-Collaboration.** [![CIDR '26](https://img.shields.io/badge/CIDR%20%2726-red)](https://www.vldb.org/cidrdb/papers/2026/p19-eckmann.pdf)
+3. **UNITQA: A Unified Automated Tabular Question Answering System with Multi-Agent Large Language Models.** [![SIGMOD '25](https://img.shields.io/badge/SIGMOD%20%2725-red)](https://doi.org/10.1145/3722212.3725140)
+4. **AutoTQA: Towards Autonomous Tabular Question Answering through Multi-Agent Large Language Models.** [![VLDB '24](https://img.shields.io/badge/VLDB%20%2724-blue)](https://doi.org/10.14778/3685800.3685816)
 
 <a id="a4"></a>
 
