@@ -253,7 +253,7 @@ Within each category, papers are ordered by **year descending**, then **SIGMOD â
 #### A3. Table Question Answering
 
 1. **Accurate Table Question Answering with Accessible LLMs.** [![ICDE '26](https://img.shields.io/badge/ICDE%20%2726-green)](https://doi.org/10.1109/icde65706.2026.00020)
-2. **A Vision for Autonomous Data Agent Collaboration: From Query-by-Integration to Query-by-Collaboration.** [![CIDR '26](https://img.shields.io/badge/CIDR%20%2726-red)](https://www.vldb.org/cidrdb/papers/2026/p19-eckmann.pdf)
+2. **A Vision for Autonomous Data Agent Collaboration: From Query-by-Integration to Query-by-Collaboration.** [![CIDR '26](https://img.shields.io/badge/CIDR%20%2726-yellow)](https://www.vldb.org/cidrdb/papers/2026/p19-eckmann.pdf)
 3. **UNITQA: A Unified Automated Tabular Question Answering System with Multi-Agent Large Language Models.** [![SIGMOD '25](https://img.shields.io/badge/SIGMOD%20%2725-red)](https://doi.org/10.1145/3722212.3725140)
 4. **AutoTQA: Towards Autonomous Tabular Question Answering through Multi-Agent Large Language Models.** [![VLDB '24](https://img.shields.io/badge/VLDB%20%2724-blue)](https://doi.org/10.14778/3685800.3685816)
 
