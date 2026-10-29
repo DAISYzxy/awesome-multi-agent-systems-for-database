@@ -10,6 +10,11 @@
   <a href="#data-analysis"><img src="https://img.shields.io/badge/Data_Analysis-B23C89?style=flat-square" alt="Data Analysis"></a>
 </p>
 
+> [!NOTE]
+> A topic guide and paper list on **Multi-Agent Systems for Database (MAS for DB)**: using collaborating agents to perform data management, data preparation, and data analysis tasks.
+>
+> For the complementary direction, see [**Database for Multi-Agent Systems (DB for MAS)**](https://github.com/DAISYzxy/awesome-database-for-multi-agent-systems): how database and data-system techniques support efficient, correct, and reliable multi-agent collaboration.
+
 ## 📑 Contents
 
 - [Introduction](#introduction)
